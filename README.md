@@ -1,1 +1,1 @@
-# My-First-Project-Base-on-C
+This project is about School teacher's salaries & student's fee
